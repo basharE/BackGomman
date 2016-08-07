@@ -1,0 +1,16 @@
+C:\Users\bashar\Downloads\project\project\project\bin\Debug\project.exe.config
+C:\Users\bashar\Downloads\project\project\project\bin\Debug\project.exe
+C:\Users\bashar\Downloads\project\project\project\bin\Debug\project.pdb
+C:\Users\bashar\Downloads\project\project\project\bin\Debug\ClassLibrary1.dll
+C:\Users\bashar\Downloads\project\project\project\bin\Debug\ClassLibrary1.pdb
+C:\Users\bashar\Downloads\project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\bashar\Downloads\project\project\project\obj\Debug\project.exe
+C:\Users\bashar\Downloads\project\project\project\obj\Debug\project.pdb
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\project\bin\Debug\project.exe.config
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\project\obj\Debug\project.exe
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\project\obj\Debug\project.pdb
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\project\bin\Debug\project.exe
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\project\bin\Debug\project.pdb
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\project\bin\Debug\ClassLibrary1.dll
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\project\bin\Debug\ClassLibrary1.pdb
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache

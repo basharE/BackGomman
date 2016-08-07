@@ -1,0 +1,5 @@
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\ClassLibrary1\bin\Debug\Control.dll
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\ClassLibrary1\bin\Debug\Control.pdb
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\ClassLibrary1\obj\Debug\Control.dll
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\ClassLibrary1\obj\Debug\Control.pdb
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\ClassLibrary1\obj\Debug\Control.csprojResolveAssemblyReference.cache

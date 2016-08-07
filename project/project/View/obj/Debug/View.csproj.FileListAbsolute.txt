@@ -1,0 +1,15 @@
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\bin\Debug\View.exe.config
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\bin\Debug\View.exe
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\bin\Debug\View.pdb
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\obj\Debug\View.Form1.resources
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\obj\Debug\View.exe
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\obj\Debug\View.pdb
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\obj\Debug\View.Welcome.resources
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\bin\Debug\Control.dll
+C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\bin\Debug\Control.pdb
+C:\Users\bashar\Source\Repos\BackGomman\project\project\View\bin\Debug\View.exe.config
+C:\Users\bashar\Source\Repos\BackGomman\project\project\View\obj\Debug\View.exe
+C:\Users\bashar\Source\Repos\BackGomman\project\project\View\obj\Debug\View.pdb
