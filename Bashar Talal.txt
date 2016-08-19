@@ -1,0 +1,50 @@
+
+*)Form1.cs contains a lot of logic (some examples: lines 291-292, the 'StillCanMove' method and the 'ChangePlayer' method).
+Logic belongs inside the game engine, not in the UI.
+Why? since you would have to rewrite this logic if you ever chose to change the UI
+Which indicates insufficient engine design. A proper engine does all the calculations and checking, leaving the UI only to respond to the engine's state.
+
+*)'Form1.MoveBtn_Click' is way too long, so is 'StillCanMove'.
+
+Consider the following scenario:
+you are working in a team of developers, how will they be able to navigate this method - add it or find a bug inside of it
+I doubt that you could, when time passes, understand what goes on in there.
+Consider breaking methods down to smaller well defined methods which do exactly what their name suggests.
+This will make maintainability and traceability of code easier.
+
+*) You are breaking Encapsulation:
+
+Method 'Game.CreateGame'
+
+note the expression 'GameBoard.HomeP1.TrianglesZone[0].Player'
+Always note that one point rule:
+If you CAN use more than one point to do some operation or access a memeber- then your code is not properly encapsulated
+Encapsulation is crucial when applying changes to classes- no class should ever have such a deep knowledge of another's state and implementation.
+Instead, have each class expose a set of methods that others could work with.
+
+Also, exposing the board as a property of the game class is breaking encapsulation.
+What if you worked for a company whose product is the game engine, and your clients write a UI for this product.
+And one day your company would reach the conclusion that you need to remove the board class and change it with another?
+
+You could not do that, since your clients would work directly with the board.
+An engine should only expose itself as an interface, while revealing nothing of its implementation detail.
+The existence of the board should not matter to consumers of the Game class.
+
+*)Consider Getting rid of magic numbers - a magic number is a constant without a meaningful name which is located in your code.
+It is magic in the sense that no one really has an idea as to how its value serves the purpose of the code.
+
+Example: Game (line 133) : I do not know what '24' means.
+
+Consider:
+
+private cosnt int MeaningfulName=24;
+
+The constant can then be used in your code, and can be changed (if necessary) by applying a single change to the constant's value-
+Instead of taking the risk of forgetting to change it somewhere- which is even worse in your case since the UI is "aware" of this special value.
+
+*)Exceptions
+It is good that you thought of this as an option, but carefully consider this:
+An exception should be thrown when some error occurred, and the error is so critical- that the program could not recover from it successsfully.
+In the case of trying to make a wrong move, the program can recover - the engine could return a boolean value which will tell the UI that the move was not carried out
+I would call my method TryMove: bool TryMove(int source, int destination);
+Consider that throwing an exception effectively terminates the flow of the method which called the throwing method. This is not always desirable.

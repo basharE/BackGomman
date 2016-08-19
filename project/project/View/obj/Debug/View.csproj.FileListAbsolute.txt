@@ -13,3 +13,15 @@ C:\Users\bashar\Source\Repos\BackgammonBackUp\project\project\View\bin\Debug\Con
 C:\Users\bashar\Source\Repos\BackGomman\project\project\View\bin\Debug\View.exe.config
 C:\Users\bashar\Source\Repos\BackGomman\project\project\View\obj\Debug\View.exe
 C:\Users\bashar\Source\Repos\BackGomman\project\project\View\obj\Debug\View.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\bin\Debug\View.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\obj\Debug\View.exe
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\obj\Debug\View.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\bin\Debug\View.exe
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\bin\Debug\View.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\bin\Debug\Control.dll
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\bin\Debug\Control.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\obj\Debug\View.Form1.resources
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\obj\Debug\View.Properties.Resources.resources
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\obj\Debug\View.Welcome.resources
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Bashar Talal\BackGomman\project\project\View\obj\Debug\View.csproj.GenerateResource.Cache
